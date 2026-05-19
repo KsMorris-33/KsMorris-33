@@ -24,11 +24,3 @@ A glimpse into what keeps me inspired outside of software architecture:
 * **3D Printing & Product Design:** Working with both resin and filament technologies to bring digital concepts into the physical world.
 * **Music Production:** Exploring AI-assisted songwriting, professional arrangement, and contemporary sound design.
 
----
-
-### 📊 GitHub Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KsMorris-33&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KsMorris-33&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
